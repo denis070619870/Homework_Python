@@ -6,10 +6,10 @@ if QuartNumb == 1:
     print(f"{QuartNumb}-я четверть имеет координаты: x > 0, y > 0")
 
 elif QuartNumb == 2:
-    print(f"{QuartNumb}-я четверть имеет координаты: x > 0, y < 0")
+    print(f"{QuartNumb}-я четверть имеет координаты: x < 0, y > 0")
 
 elif QuartNumb == 3:
-    print(f"{QuartNumb}-я четверть имеет координаты: x < 0, y > 0")
+    print(f"{QuartNumb}-я четверть имеет координаты: x < 0, y < 0")
 
 elif QuartNumb == 4 :
     print(f"{QuartNumb}-я четверть имеет координаты: x > 0, y < 0")
