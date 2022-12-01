@@ -6,5 +6,5 @@ bx = float(input("Введите координаты точки b по оси x
 by = float(input("Введите координаты точки b по оси y: "))
 
 import math
-distans = math.sqrt((ax - bx)**2 + (ay - by)**2)
-print(f'Растояние между точками A и B = {distans}')
+distance = math.sqrt((ax - bx)**2 + (ay - by)**2)
+print(f'Растояние между точками A и B = {distance}')
